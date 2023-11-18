@@ -6,7 +6,7 @@
 ![job](https://github.com/manarnew/NotficationApp/assets/74496683/a0ebcfac-99fd-45b2-8581-e6addcb77c03)
 Introduction:
 this a web application for send email notification for admin 
-I blut this app for company has foreigner employee when one of
+ I have built this app for company has foreigner employee when one of
 them his visa about to finsh the app will wend notification for 
 the admin 
 I blut it useing laravel and bootstrap 
